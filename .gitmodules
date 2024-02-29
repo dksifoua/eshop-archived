@@ -1,0 +1,6 @@
+[submodule "eshop-product-catalog-service"]
+	path = eshop-product-catalog-service
+	url = https://github.com/dksifoua/eshop-product-catalog-service.git
+[submodule "eshop-admin-ui"]
+	path = eshop-admin-ui
+	url = https://github.com/dksifoua/eshop-admin-ui.git

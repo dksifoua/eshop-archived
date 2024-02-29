@@ -1,2 +1,1 @@
-# eshop
-eshop online store
+# eshop online store
