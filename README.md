@@ -1,6 +1,5 @@
-# eshop online store
+# eShop
 
-| Module                        | Build                                                                                                                                                                                                            | Coverage                                                                                                                                                                  |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| eshop-admin-ui                |                                                                                                                                                                                                                  |                                                                                                                                                                           |
-| eshop-product-catalog-service | [![Makefile CI](https://github.com/dksifoua/eshop-product-catalog-service/actions/workflows/build-ci.yaml/badge.svg)](https://github.com/dksifoua/eshop-product-catalog-service/actions/workflows/build-ci.yaml) | [![codecov](https://codecov.io/gh/dksifoua/eshop-product-catalog-service/graph/badge.svg?token=SWkcmvCaEY)](https://codecov.io/gh/dksifoua/eshop-product-catalog-service) |  
+eShop is a microservice-based c2c ecommerce platform that allows its users to buy and sell products directly to each other.
+
+- [] Design
